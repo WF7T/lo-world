@@ -1,2 +1,2 @@
 # lo-world
-lo world
+hello. Hello world.
